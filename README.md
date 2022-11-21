@@ -1,4 +1,4 @@
-# **Hi, I'm Thien** 👋
+# 👋 **Hi, I'm Thien** 
 
 - :notebook: I’m currently learning at **FPT University Ho Chi Minh Campus**
 - :computer: I'm learning software engineering
